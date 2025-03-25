@@ -17,6 +17,7 @@ patreon: https://patreon.com/1stG
 
 [![JounQin's github stats](https://github-readme-stats.vercel.app/api?username=JounQin&show_icons=true&hide_title=true])](https://github.com/JounQin)
 
+[![Sponsors](https://raw.githubusercontent.com/1stG/static/master/sponsors.svg)](https://github.com/sponsors/JounQin)
 
 ## Sponsors
 
