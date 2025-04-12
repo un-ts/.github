@@ -13,7 +13,7 @@ OpenCollective:
 
 patreon: https://patreon.com/1stG
 
-爱发电：https://afdian.net/@JounQin
+爱发电：https://afdian.com/a/JounQin
 
 [![JounQin's github stats](https://github-readme-stats.vercel.app/api?username=JounQin&show_icons=true&hide_title=true])](https://github.com/JounQin)
 
