@@ -1,5 +1,11 @@
 # Unified TypeScript Tools
 
+> [!CAUTION]
+> 
+> Clarification: inspired by [@unjs](https://github.com/unjs) but not related at all, we share only `unified` concept, nothing more else.
+
+Let's rewrite everything written in JavaScript in TypeScript.
+
 > 轮子主义初级阶段 v0.0.1 [@1stG.me](https://www.1stG.me)
 >  
 > Write Less, Think More.
